@@ -1,6 +1,6 @@
 {
   "name": "@how_to_npm/how_to_npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Working on the CodeCamp challenge",
   "main": "index.js",
   "dependencies": {
@@ -11,9 +11,9 @@
   "scripts": {
     "test": "node test.js"
   },
-    "repository": {                                                                           
-    "type": "git",                                                                          
-    "url": "git+https://github.com/jmontreal/how_to_npm.git"                                
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmontreal/how_to_npm.git"
   },
   "author": "",
   "license": "ISC"
