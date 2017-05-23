@@ -1,6 +1,6 @@
 {
   "name": "@how_to_npm/how_to_npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Working on the CodeCamp challenge",
   "main": "index.js",
   "dependencies": {
