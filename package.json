@@ -11,6 +11,10 @@
   "scripts": {
     "test": "node test.js"
   },
+    "repository": {                                                                           
+    "type": "git",                                                                          
+    "url": "git+https://github.com/jmontreal/how_to_npm.git"                                
+  },
   "author": "",
   "license": "ISC"
 }
