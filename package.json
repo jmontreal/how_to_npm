@@ -4,11 +4,12 @@
   "description": "Working on the CodeCamp challenge",
   "main": "index.js",
   "dependencies": {
+    "@linclark/pkg": "^1.0.2",
     "how-to-npm": "^2.4.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "helloNPM"
+    "test": "node test.js"
   },
   "author": "",
   "license": "ISC"
